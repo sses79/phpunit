@@ -1,0 +1,13 @@
+{
+    "name": "lu/github_phpunit",
+    "authors": [
+        {
+            "name": "sses79",
+            "email": "sses79@gmail.com"
+        }
+    ],
+    "require": {
+    	"phpunit/phpunit": "5.4.*",
+		"phpunit/phpunit-selenium": "3.0.*"
+    }
+}
